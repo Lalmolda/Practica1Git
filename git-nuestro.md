@@ -1,4 +1,6 @@
 #Aquí escribimos el "Git nuestro"
+TITULO GIT PRACTICA 1
+
 Git nuestro
 *Git* nuestro que estás en los repos
 Comprimidos sean tus *commits*
