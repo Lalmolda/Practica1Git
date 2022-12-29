@@ -10,3 +10,4 @@ como tambien perdonamos los de otros geeks
 no nos dejes caer en *detached HEAD*
 y líbranos de *SVN*
 git commit - amend 
+
